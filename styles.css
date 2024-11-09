@@ -24,3 +24,7 @@ li {
 ul {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+ul.a {
+  list-style-type: square;
+}
