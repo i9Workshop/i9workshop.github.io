@@ -21,10 +21,10 @@ li {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-ul_crypto {
+ul.crypto {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-ul_edu {
+ul.edu {
   font-family: Arial, Helvetica, sans-serif;
 }
