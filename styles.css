@@ -14,3 +14,7 @@ body {
 img {
   margin-right: 10px;
 }
+
+crypto_wallet_address {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
