@@ -22,7 +22,7 @@
   >BTC - `3FCDFzZJKsSkNbmPP4NAFHN8xG4Dkhzibs`<br/>
   >BCH - `pqglmx2adqm52zsxfv5j57rmsxnrrsej4cw25yvuhn`<br/>
   >SOL - `EUwSEY1S7v3ewjYwUZPsfG6mNN7Akyq2h9JrJi4xdq8F`<br/>
-  >ADA - `addr1qxx47p8peg3jar62hl956lrfsxsr6q2n06c8s09avdd6njkrls4wyeentzzsxuf38jrz6d34az2tpezzzt4vl9a9m8eqatjz6l`<br/>
+  >ADA - `addr1qy633c360dy5240yurkyv5x8q9wyhh3vnl8u7dgy0j6xwv56ptjp699mjxn43sq5xp8mvt6m736x5752nfpagftpklxssvg4kv`<br/>
 
 
 <br/>
