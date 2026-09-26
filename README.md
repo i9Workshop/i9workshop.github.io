@@ -11,6 +11,4 @@
 - 🔭 I’m currently working on microcontroller, electronics and softwares.
 - 👯 I’m looking to collaborate on Microcontroller and Electronics development.
 - 🤔 I’m looking for help with HDMI communication.
-
-
 <br/>
